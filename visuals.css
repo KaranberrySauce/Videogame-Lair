@@ -1,0 +1,51 @@
+header {
+		border:solid black 5px;
+		text-align: center;
+		font-family:"Comic Sans MS", seriff;
+		border-radius: 25px;
+		}
+	
+li a	{
+			text-decoration:none;
+			
+		}
+		
+ul{
+	
+	text-align:center;
+	
+	
+}
+
+footer  {
+	border:solid black 1px;
+	text-align: center;
+	font-family:"Comic Sans MS", seriff;
+	border-radius: 25px;
+	padding:15px;
+	font-size: 12px;
+}
+#wrapper{
+		height:100%;
+		background-size:cover;
+		max-width:1000px;
+		margin:0 auto;
+		
+		
+}
+
+p{
+		font-family:"Comic Sans MS", seriff;
+		
+}
+
+li{
+	font-family:"Comic Sans MS", seriff;
+}
+
+h2{
+	font-family:"Comic Sans MS", seriff;
+	
+}
+
+
